@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pendaftaran Siswa Baru | SMK Coding</title>
+    <title>Student Edit Form | Mystika Elemental Academy</title>
     <link rel="stylesheet" type="text/css" href="css/list.css">
 </head>
 

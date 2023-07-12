@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Pendaftaran Siswa Baru | SMK Coding</title>
+        <title>Student Edit Form | Mystika Elemental Academy</title>
         <link rel="stylesheet" type="text/css" href="css/index.css">
     </head>
 
     <body>
         <div class="container">
                 <header>
-                    <h3>Pendaftaran Siswa Baru</h3>
-                    <h1>SMK Coding</h1>
+                    <h3>Student Edit Form</h3>
+                    <h1>Mystika Elemental Academy</h1>
                 </header>
 
                 <h4>Menu</h4>
